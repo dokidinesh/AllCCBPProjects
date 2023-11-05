@@ -1,0 +1,15 @@
+.login-page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-button {
+  border-radius: 5px;
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

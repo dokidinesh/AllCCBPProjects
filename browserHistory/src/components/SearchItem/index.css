@@ -1,0 +1,41 @@
+.search-item {
+  display: flex;
+  align-items: center;
+}
+
+.search-item-logo {
+  width: 3%;
+  height: 3%;
+  margin: 20px;
+}
+
+.search-item-time {
+  font-family: Roboto;
+  width: 10%;
+  font-weight: bold;
+  color: #475569;
+}
+
+.search-delete-button {
+  width: 3%;
+  height: 3%;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.search-item-title {
+  font-family: Roboto;
+  font-weight: bold;
+  color: #475569;
+}
+
+.domain {
+  color: #64748b;
+  margin-left: 20px;
+}
+
+.domain-container {
+  display: flex;
+  width: 70%;
+}

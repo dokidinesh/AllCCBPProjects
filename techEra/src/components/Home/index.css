@@ -1,0 +1,6 @@
+.courses-container {
+  display: flex;
+  width: 40%;
+  flex-wrap: wrap;
+  margin: auto;
+}
